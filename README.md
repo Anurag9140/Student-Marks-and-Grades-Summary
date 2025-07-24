@@ -26,16 +26,10 @@ The objective of this project is to demonstrate fundamental programming concepts
 - 🧹 **Data Cleaning and Validation**
 - 🎨 **Stylish UI with Custom CSS**
 
----
 
-## 📁 Project Structure
 
-student-grades-summary/
-│
-├── app.py
-├── model.py 
-├── requirements.txt
-└── README.md 
+
+
 
 
 
